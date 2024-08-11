@@ -19,6 +19,22 @@ Follow the instructions below to set up and run the scraper locally.
 - pip (Python package manager)
 - Required Python libraries: `requests`, `pandas`, `beautifulsoup4`, `lxml`
 
+## Languages and Technologies
+
+This project involves scraping repositories related to the following languages and technologies:
+
+- **Java**: The primary focus of the scraper, used to extract data about Java-related repositories.
+- **Data-V**: A visualization library often used with data processing tools.
+- **Flask**: A micro web framework for Python used for web development.
+- **GraphQL**: A query language for APIs, allowing clients to request only the data they need.
+- **JSON**: A lightweight data-interchange format that is easy for humans to read and write.
+- **JavaScript**: A programming language commonly used for web development.
+- **Machine Learning**: Techniques and algorithms used for predictive modeling and data analysis.
+- **PostgreSQL**: An advanced open-source relational database management system.
+- **Python**: The programming language used to write the scraper.
+- **React**: A JavaScript library for building user interfaces, particularly single-page applications.
+
+
 ### Installation
 
 1. Clone this repository to your local machine:
